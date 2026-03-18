@@ -29,6 +29,9 @@ A full-stack Dashboard and Orders management platform featuring a deeply customi
     ├── server.js             # Root application core (CORS, Express JSON, Routing)
     └── package.json          
 ```
+```
+Video link - https://drive.google.com/file/d/1WoLZjDzUG-EVg90QW5AdmrPRa2ivFnQX/view?usp=sharing
+```
 
 ## Environment Variables (.env)
 Create a `.env` hidden file in the root of the `/backend` folder. Follow this exact schema format to ensure standard configuration:
